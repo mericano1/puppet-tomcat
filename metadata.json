@@ -14,11 +14,11 @@
       "version_requirement": "\u003e\u003d0.0.1"
     },
     {
-      "name": "proteon/maven",
+      "name": "proteon/puppet-maven",
       "version_requirement": "\u003e\u003d1.0.1"
     },
     {
-      "name": "proteon/java",
+      "name": "proteon/puppet-java",
       "version_requirement": "\u003e\u003d0.1.6"
     }
   ],
